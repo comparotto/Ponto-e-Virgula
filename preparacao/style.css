@@ -1,0 +1,10 @@
+body {
+    background-color: #999999;
+}
+.vermelho {
+    height: 260px;
+    width: 279px;
+    background-color: red;
+    position: relative;
+    left: 85.1%;
+}
